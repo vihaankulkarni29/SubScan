@@ -34,3 +34,15 @@ A single Excel spreadsheet with:
 ```bash
 acrB.aln → I348T
 marR.aln → P20L
+
+
+🧰 Requirements
+Python 3.7+
+
+pandas
+
+Google Colab (for upload/download interface)
+
+👨‍🔬 Developed By
+Vihaan Kulkarni – Bioinformatics Enthusiast | LinkedIn
+
