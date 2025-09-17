@@ -1,7 +1,7 @@
 # SubScan
-# SubsScan
+# SubScan
 
-**SubsScan** is a lightweight Python tool designed to extract amino acid substitutions from EMBOSS alignment files. Built with Biopython and ready to run in Google Colab, it simplifies comparison between protein sequences—especially for AMR gene variation studies across lab isolates.
+**SubScan** is a lightweight Python tool designed to extract amino acid substitutions from EMBOSS alignment files. Built with Biopython and ready to run in Google Colab, it simplifies comparison between protein sequences—especially for AMR gene variation studies across lab isolates.
 
 ## 🔍 Features
 - Extracts amino acid substitutions from pairwise EMBOSS alignments
