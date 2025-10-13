@@ -7,7 +7,7 @@
 - Extracts amino acid substitutions from pairwise EMBOSS alignments
 - Outputs clean reports in Excel (.xlsx) format
 - Automatically labels gene names using filenames
-- Google Colab-compatible for easy execution without local setup
+
 
 ## 🧪 Ideal Use Cases
 - Antimicrobial resistance (AMR) gene comparisons
