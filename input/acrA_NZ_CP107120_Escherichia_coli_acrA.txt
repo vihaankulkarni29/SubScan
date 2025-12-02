@@ -1,0 +1,36 @@
+# 13
+Waterman-Eggert local alignment
+Query: NZ_CP107120_Escherichia_coli_acrA (397 aa)
+Reference: WP_448068493.1 (397 aa)
+Score: 395.0
+Identities: 395/399 (99.0%)
+Gaps: 4
+
+NZ_CP107120_Escherichia_coli_acrA    1 MNKNRGFTPLAVVLMLSGSLALTGCDDKQAQQGGQQMPAVGVVTVKTEPLQITTELPGRT   60
+                          ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||     
+WP_448068493.1          1 MNKNRGFTPLAVVLMLSGSLALTGCDDKQAQQGGQQMPAVGVVTVKTEPLQITTELPGRT   60
+
+NZ_CP107120_Escherichia_coli_acrA   61 SAYRIAEVRPQVSGIILKRNFKEGSDIEAGVSLYQIDPATYQAA-YDSAKGDLAKAQAAA  120
+                          |||||||||||||||||||||||||||||||||||||||||||  |||||||||||||||     
+WP_448068493.1         61 SAYRIAEVRPQVSGIILKRNFKEGSDIEAGVSLYQIDPATYQA-TYDSAKGDLAKAQAAA  120
+
+NZ_CP107120_Escherichia_coli_acrA  121 NIAQLTVNRYQKLLGTQYISKQEYDQALADAQQANAAVTAAKAAVETARINLAYTKVTSP  180
+                          ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||     
+WP_448068493.1        121 NIAQLTVNRYQKLLGTQYISKQEYDQALADAQQANAAVTAAKAAVETARINLAYTKVTSP  180
+
+NZ_CP107120_Escherichia_coli_acrA  181 ISGRIGKSNVTEGALVQNGQATALATVQQLDPIYVDVTQSSNDFLRLKQELAN-GTLKQE  240
+                          ||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||     
+WP_448068493.1        181 ISGRIGKSNVTEGALVQNGQATALATVQQLDPIYVDVTQSSNDFLRLKQELA-SGTLKQE  240
+
+NZ_CP107120_Escherichia_coli_acrA  241 NGKAKVSLITSDGIKFPQDGTLEFSDVTVDQTTGSITLRAIFPNPDHTLLPGMFVRARLE  300
+                          ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||     
+WP_448068493.1        241 NGKAKVSLITSDGIKFPQDGTLEFSDVTVDQTTGSITLRAIFPNPDHTLLPGMFVRARLE  300
+
+NZ_CP107120_Escherichia_coli_acrA  301 EGLNPNAILVPQQGVTRTPRGDATVLVVGADDKVETRPIVASQAIGDKWLVTEGLKAGDR  360
+                          ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||     
+WP_448068493.1        301 EGLNPNAILVPQQGVTRTPRGDATVLVVGADDKVETRPIVASQAIGDKWLVTEGLKAGDR  360
+
+NZ_CP107120_Escherichia_coli_acrA  361 VVISGLQKVRPGVQVKAQEVTADNNQQAASGAQPEQSKS  399
+                          |||||||||||||||||||||||||||||||||||||||     
+WP_448068493.1        361 VVISGLQKVRPGVQVKAQEVTADNNQQAASGAQPEQSKS  399
+

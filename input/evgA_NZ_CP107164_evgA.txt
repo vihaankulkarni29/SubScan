@@ -1,0 +1,24 @@
+# 86
+Waterman-Eggert local alignment
+Query: NZ_CP107164_evgA (204 aa)
+Reference: WP_449267032.1 (187 aa)
+Score: 187.0
+Identities: 187/204 (91.7%)
+Gaps: 17
+
+NZ_CP107164_evgA        1 MNAIIIDDHPLAIAAIRNLLIKNDIEILAELTEGGSAVQRVETLKPDIVIIDVDIPGVNG   60
+                          ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||     
+WP_449267032.1          1 MNAIIIDDHPLAIAAIRNLLIKNDIEILAELTEGGSAVQRVETLKPDIVIIDVDIPGVNG   60
+
+NZ_CP107164_evgA       61 IQVLETLRKRQYSGIIIIVSAKNDHFYGKHCADAGANGFVSKKEGMNNIIAAIEAAKNGY  120
+                          ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||     
+WP_449267032.1         61 IQVLETLRKRQYSGIIIIVSAKNDHFYGKHCADAGANGFVSKKEGMNNIIAAIEAAKNGY  120
+
+NZ_CP107164_evgA      121 CYFPFSLNRFVGSLTSDQQKLDSLSKQEISVMRYILDGKDNNDIAEKMFISNKTVSTYKS  180
+                          ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||     
+WP_449267032.1        121 CYFPFSLNRFVGSLTSDQQKLDSLSKQEISVMRYILDGKDNNDIAEKMFISNKTVSTYKS  180
+
+NZ_CP107164_evgA      181 RLMEKLECKSLMDLYTFAQRNKIG  204
+                          ||||||                 |     
+WP_449267032.1        181 RLMEKL-----------------G  204
+
